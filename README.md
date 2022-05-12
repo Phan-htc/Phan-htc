@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Phan charlie
-- 👀 I’m interested in digital language learning airsoft and mechanical of precision .
-- 🌱 I’m currently learning php, mysql, javascript and how using kali linux.
-- 📫 You can reach me in linkedin or with my email ( phan-htc@outlook.fr ).
+- 👀 I’m interested in digital language learning, the investment world, airsoft and mechanical of precision .
+- 🌱 I’m currently learning Angular, Symfony, PHP, mysql, javascript in school, and i learning python and C++ in my free time.
+- 📫 You can contact me in linkedin ( https://www.linkedin.com/in/charlie-phan-542549196/ ) or with my email ( phan-htc@outlook.fr ).
